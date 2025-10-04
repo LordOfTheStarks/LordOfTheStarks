@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LordOfTheStarks
-- 👀 I’m interested in Databases, Algorithms and Computer vision
+- 👀 I’m interested in AI & Data Science
 - 🌱 I’m currently learning different languages
 
 <!---
